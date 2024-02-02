@@ -8,4 +8,7 @@ This project involves creating a customer banking system that allows users to ca
 
 ## Navigate to submission
 - Click on M3 Source Code
-  - 
+  - Customer Banking file: This is the final file that puts together the classes and functions in the proceeding files to understand the inputs (balance, interest, months) to calulate interest earned and new balance based on user inputs.
+  - Account Class: This class is the getting the inputs for current balance and calculatiing the gained interest
+  - CD_Account: this file includes the calculations as it relates to CD
+  - Savings_Account: this file includes the calculations as it relates to CD
